@@ -1,4 +1,4 @@
-車種(GTR)
-1.32GTR
-2.33GTR
-3.34GTR
+ #車種(GTR)
+ - 32GTR
+ - 33GTR
+ - 34GTR
